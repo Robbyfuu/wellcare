@@ -81,7 +81,7 @@ const FooterInstagram = () => {
                </Slider>
             </div>
          </div>
-         {isOpen && (
+         {/* {isOpen && (
 			<ModalGateway>
 				<Modal onClose={() => setIsOpen(false)}>
 					<ImagePopup
@@ -93,7 +93,7 @@ const FooterInstagram = () => {
 				</Modal>
 			</ModalGateway>
 
-         )}
+         )} */}
       </>
    )
 }
